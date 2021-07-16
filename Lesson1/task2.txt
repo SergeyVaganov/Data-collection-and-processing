@@ -1,0 +1,33 @@
+PS C:\Users\spvag> curl -v https://api.nasa.gov/planetary/apod?api_key=Yx01d3pLf6sOz1gNENInMpZu08VRWFl01G7IuBiI
+ПОДРОБНО: GET https://api.nasa.gov/planetary/apod?api_key=Yx01d3pLf6sOz1gNENInMpZu08VRWFl01G7IuBiI with 0-byte payload
+ПОДРОБНО: received 1283-byte response of content type application/json
+
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"copyright":"Shi Huan","date":"2021-07-16","explanation":"Venus, named for the Roman goddess of love, and Mars, the
+                    war god's namesake, come together by moonlight in this serene skyview, recorded on ...
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Vary: Accept-Encoding
+                    X-RateLimit-Limit: 2000
+                    X-RateLimit-Remaining: 1990
+                    Access-Control-Allow-Origin: *
+                    Age: 0
+                    X-Cache: MISS
+                    Strict-Transport-Security: ...
+Forms             : {}
+Headers           : {[Connection, keep-alive], [Vary, Accept-Encoding], [X-RateLimit-Limit, 2000], [X-RateLimit-Remaining, 1990]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 1283
+
+
+
+
+
+
+
+
